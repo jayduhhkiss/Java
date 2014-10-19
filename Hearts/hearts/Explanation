@@ -1,0 +1,14 @@
+Jada - Ashley Hawkins 
+September 29, 2013
+Data Structures
+Hearts 
+
+To run my code there are two progressions. 
+
+	Firstly: 
+	java hearts/NewDeck | java hearts/Shuffle | java hearts/Deal | java hearts/Show 
+	if you would like to see the four hands
+	
+	Lastly:
+	java hearts/NewDeck | java hearts/Shuffle | java hearts/Deal | java hearts/Leader
+	if you would like to see who has the two of clubs
